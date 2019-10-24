@@ -12,6 +12,10 @@ public class Crud {
         this.lista.add(item);
     }
 
+    public void remover(Integer index) {
+        this.lista.remove(index);
+    }
+
     public static void main(String[] args) {
         List<String> l1 = new ArrayList<>();
         Crud c1 = new Crud(l1);
