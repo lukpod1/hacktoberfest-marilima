@@ -16,6 +16,10 @@ public class Crud {
         this.lista.remove(index);
     }
 
+    public void listar(){
+        this.lista.forEach(System.out::println);
+    }
+
     public static void main(String[] args) {
         List<String> l1 = new ArrayList<>();
         Crud c1 = new Crud(l1);

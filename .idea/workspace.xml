@@ -148,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criacao do construtor" />
     <MESSAGE value="criacao metodo adicionar" />
-    <option name="LAST_COMMIT_MESSAGE" value="criacao metodo adicionar" />
+    <MESSAGE value="criacao metodo remover" />
+    <option name="LAST_COMMIT_MESSAGE" value="criacao metodo remover" />
   </component>
 </project>
